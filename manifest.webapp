@@ -1,0 +1,13 @@
+{
+	"name": "ハイロウ",
+	"description": "ハイかロウか決めるアプリです",
+	"launch_path": "/index.html",
+	"icons": {
+		"128": "/icon_128.png"
+	},
+	"developer": {
+		"name": "Aokashi",
+		"url": "http://www.aokashi.net/"
+	},
+	"default_locale": "ja"
+}
